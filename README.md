@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React, Nextjs**
 
-- 💬 Ask me about **Hi, I'm Ujjwal Kandel!A quick learner with a self-motivated attitude**
+- 💬 Ask me about **Hi, I'm Ujjwal Kandel!A quick learner with a self-motivated attitude :**
 
 - 📫 How to reach me **ujjwalkandel1@gmail.com**
 
