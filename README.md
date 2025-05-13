@@ -30,6 +30,7 @@
 ---
 
 ### 🛠️ Languages and Tools
+
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a>
@@ -60,13 +61,6 @@
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ujjwalkandel1&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=ujjwalkandel1&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 </p>
 
----
-
-> 🔁 **Tip:** Your GitHub contribution streak is automatically updated by GitHub. To maintain your streak, make at least one valid contribution (commit, issue, PR, etc.) per day — even across different repositories.
-
----
-
-Would you like this `README.md` saved as a downloadable file or want help auto-updating it into your GitHub profile?
