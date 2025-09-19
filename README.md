@@ -17,7 +17,7 @@
 - [The Saviour](https://github.com/ujjwalkandel1/The-saviour)
 
 ### 🌱 Currently Learning
-- React, Next.js, TypeScript
+- React, Next.js, TypeScript 
 
 ### 💬 Ask Me About
 - Frontend development, React ecosystem, and turning ideas into live projects.
