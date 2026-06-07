@@ -43,7 +43,6 @@
 
 * 📧 **[ujjwalkandel1@gmail.com](mailto:ujjwalkandel1@gmail.com)**
 * 💼 [LinkedIn](https://linkedin.com/in/ujjwal-kandel-816937271)
-* 📸 [Instagram](https://instagram.com/ujjwal__kandel)
 
 ---
 
@@ -74,7 +73,7 @@
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ujjwalkandel1&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
+  <img src="[https://github-readme-stats.vercel.app](https://ujjwalkandel1.com.np/)/api?username=ujjwalkandel1&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p align="left">
