@@ -73,7 +73,7 @@
 </p>
 
 <p align="left">
-  <img src="[https://github-readme-stats.vercel.app](https://ujjwalkandel1.com.np/)/api?username=ujjwalkandel1&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
+  <img src="[https://ujjwalkandel1.com.np/]/api?username=ujjwalkandel1&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p align="left">
